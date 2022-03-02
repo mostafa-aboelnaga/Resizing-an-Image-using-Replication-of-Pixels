@@ -1,5 +1,5 @@
 # Resizing an Image using Replication of Pixels
- A matlab script/code written for a quick quiz I had in my university
+ A matlab script/code written for a quick quiz I had in my university, where we were asked to resize an image by replicating pixels.
 
 
 
